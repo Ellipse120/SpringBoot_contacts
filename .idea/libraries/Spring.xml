@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://E:/stereo-autoconfig/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-aop-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-aspects-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-beans-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-context-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-context-support-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-core-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-expression-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-instrument-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-instrument-tomcat-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-jdbc-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-jms-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-messaging-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-orm-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-oxm-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-test-4.3.0.RELEASE.jar!/" />
+      <root url="jar://E:/stereo-autoconfig/lib/spring-tx-4.3.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
